@@ -1,0 +1,154 @@
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\roslyn\csc.exe
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\roslyn\vbc.exe
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\StudentsAuthorize.dll.config
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\StudentsAuthorize.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\StudentsAuthorize.pdb
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Antlr3.Runtime.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\EntityFramework.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\EntityFramework.SqlServer.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Newtonsoft.Json.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Owin.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Net.Http.Formatting.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Helpers.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Http.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Http.Owin.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Http.WebHost.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Mvc.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Optimization.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Razor.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.WebPages.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\WebGrease.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Newtonsoft.Json.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Net.Http.Formatting.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Helpers.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Http.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Http.WebHost.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Mvc.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Optimization.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Razor.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.WebPages.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Antlr3.Runtime.pdb
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\EntityFramework.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\EntityFramework.SqlServer.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Http.Owin.xml
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\obj\Release\StudentsAuthorize.dll
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\obj\Release\StudentsAuthorize.pdb
+C:\Users\Eihab\Documents\Visual Studio 2015\Projects\StudentsAuthorize\StudentsAuthorize\obj\Release\StudentsAuthorize.csprojResolveAssemblyReference.cache
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\roslyn\csc.exe
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\roslyn\System.Collections.Immutable.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\roslyn\System.Reflection.Metadata.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\roslyn\vbc.exe
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\roslyn\VBCSCompiler.exe
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\roslyn\VBCSCompiler.exe.config
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\StudentsAuthorize.dll.config
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\StudentsAuthorize.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\StudentsAuthorize.pdb
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Antlr3.Runtime.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\EntityFramework.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\EntityFramework.SqlServer.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Google.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Web.Infrastructure.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Newtonsoft.Json.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Owin.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Net.Http.Formatting.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Helpers.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Http.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Http.Owin.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Http.WebHost.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Mvc.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Optimization.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Razor.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.WebPages.Deployment.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.WebPages.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.WebPages.Razor.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\WebGrease.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Newtonsoft.Json.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Net.Http.Formatting.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Helpers.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Http.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Http.WebHost.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Mvc.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Optimization.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Razor.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.WebPages.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.WebPages.Deployment.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.WebPages.Razor.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Antlr3.Runtime.pdb
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\EntityFramework.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\EntityFramework.SqlServer.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Google.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\bin\System.Web.Http.Owin.xml
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\obj\Release\StudentsAuthorize.csprojResolveAssemblyReference.cache
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\obj\Release\StudentsAuthorize.dll
+D:\AndroidStudioProjects\Students\backend .NET\StudentsAuthorize\StudentsAuthorize\obj\Release\StudentsAuthorize.pdb
