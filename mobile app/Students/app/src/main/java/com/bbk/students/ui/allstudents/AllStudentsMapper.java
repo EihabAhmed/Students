@@ -15,11 +15,13 @@ public class AllStudentsMapper {
 
     public ArrayList<Student> map(String result) {
         try {
-            JSONArray json = new JSONArray(result);
+            JSONObject json = new JSONObject(result);
+
+            JSONArray jsonStudents = json.getJSONArray("students");
 
             JSONObject jsonStudent;
-            for (int i = 0; i < json.length(); i++) {
-                jsonStudent = json.getJSONObject(i);
+            for (int i = 0; i < jsonStudents.length(); i++) {
+                jsonStudent = jsonStudents.getJSONObject(i);
                 Student student = new Student();
                 student.id = jsonStudent.getInt("id");
                 student.name = jsonStudent.getString("firstName");
@@ -27,6 +29,19 @@ public class AllStudentsMapper {
                 student.grade = jsonStudent.getInt("grade");
                 students.add(student);
             }
+
+//            JSONArray json = new JSONArray(result);
+//
+//            JSONObject jsonStudent;
+//            for (int i = 0; i < json.length(); i++) {
+//                jsonStudent = json.getJSONObject(i);
+//                Student student = new Student();
+//                student.id = jsonStudent.getInt("id");
+//                student.name = jsonStudent.getString("firstName");
+//                student.age = jsonStudent.getInt("age");
+//                student.grade = jsonStudent.getInt("grade");
+//                students.add(student);
+//            }
 
             return students;
 

@@ -1,7 +1,7 @@
 ﻿using StudentsAuthorize.BLL;
+using StudentsAuthorize.Models;
 using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
@@ -19,7 +19,9 @@ namespace StudentsAuthorize.Controllers
             IEnumerable<Student> students = studentsBLL.GetStudents();
             if (students.Count() > 0)
             {
-                return Request.CreateResponse(HttpStatusCode.OK, students);
+                Students _students = new Students();
+                _students.students = students.ToArray();
+                return Request.CreateResponse(HttpStatusCode.OK, _students);
             }
             else
             {
