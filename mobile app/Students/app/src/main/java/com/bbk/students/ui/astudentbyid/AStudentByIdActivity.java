@@ -71,7 +71,7 @@ public class AStudentByIdActivity extends BaseActivity {
         int id = Integer.parseInt(etID.getText().toString());
 
         StudentsApi api = new StudentsApi(this, "GetAStudentById");
-        String url = getString(R.string.global_url) + "/api/students?id=" + id;
+        String url = baseUrl + "/api/students?id=" + id;
 
         Map<String, String> requestProperties = new HashMap<>();
         requestProperties.put("Authorization", "Bearer " + Persistent.getToken());

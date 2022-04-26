@@ -123,7 +123,7 @@ public class CreateStudentActivity extends BaseActivity {
         etGrade.setText("");
 
         StudentsApi api = new StudentsApi(this, "CreateStudent");
-        String url = getString(R.string.global_url) + "/api/students";
+        String url = baseUrl + "/api/students";
         Map<String, String> requestProperties = new HashMap<>();
         requestProperties.put("Content-Type", "application/json");
         requestProperties.put("Accept", "application/json");

@@ -67,7 +67,7 @@ public class DeleteStudentActivity extends BaseActivity {
 
         tvStatus.setText("");
         int id = Integer.parseInt(etID.getText().toString());
-        String url = getString(R.string.global_url) + "/api/students?id=" + id;
+        String url = baseUrl + "/api/students?id=" + id;
         etID.setText("");
 
         StudentsApi api = new StudentsApi(this, "DeleteStudent");

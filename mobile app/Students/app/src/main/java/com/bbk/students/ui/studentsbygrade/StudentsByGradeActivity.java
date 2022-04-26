@@ -77,7 +77,7 @@ public class StudentsByGradeActivity extends BaseActivity {
         final EditText etGrade = findViewById(R.id.et_grade);
 
         int grade = Integer.parseInt(etGrade.getText().toString());
-        String url = getString(R.string.global_url) + "/api/students/GetWithGrade?grade=" + grade;
+        String url = baseUrl + "/api/students/GetWithGrade?grade=" + grade;
 
         StudentsApi api = new StudentsApi(this, "GetStudentsByGrade");
 

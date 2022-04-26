@@ -107,7 +107,7 @@ public class StudentsByAgeActivity extends BaseActivity {
                 operator = "gt";
                 break;
         }
-        String url = getString(R.string.global_url) + "/api/students/GetWithAge?criteria=" + operator + "&age=" + age;
+        String url = baseUrl + "/api/students/GetWithAge?criteria=" + operator + "&age=" + age;
 
         StudentsApi api = new StudentsApi(this, "GetStudentsByAge");
 

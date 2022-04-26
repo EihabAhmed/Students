@@ -67,7 +67,7 @@ public class SplashActivity extends BaseActivity {
     @Override
     public void makeRequest() {
         StudentsApi api = new StudentsApi(this, "Splash");
-        String url = getString(R.string.global_url) + "/api/IsAdmin?username=" + Persistent.getUserName();
+        String url = baseUrl + "/api/IsAdmin?username=" + Persistent.getUserName();
         Map<String, String> requestProperties = new HashMap<>();
         requestProperties.put("Accept", "application/json");
         requestProperties.put("Authorization", "Bearer " + Persistent.getToken());

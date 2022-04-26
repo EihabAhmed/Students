@@ -75,7 +75,7 @@ public class LoginActivity extends BaseActivity {
         }
 
         StudentsApi api = new StudentsApi(this, "Login");
-        String url = getString(R.string.global_url) + "/token";
+        String url = baseUrl + "/token";
         Map<String, String> requestProperties = new HashMap<>();
         requestProperties.put("Content-Type", "application/x-www-form-urlencoded");
         requestProperties.put("Accept", "application/json");
@@ -146,7 +146,7 @@ public class LoginActivity extends BaseActivity {
 
     public void getAdmin(String userName) {
         StudentsApi api = new StudentsApi(this, "Login");
-        String url = getString(R.string.global_url) + "/api/IsAdmin?username=" + userName;
+        String url = baseUrl + "/api/IsAdmin?username=" + userName;
         Map<String, String> requestProperties = new HashMap<>();
         //requestProperties.put("Content-Type", "application/json");
         requestProperties.put("Accept", "application/json");

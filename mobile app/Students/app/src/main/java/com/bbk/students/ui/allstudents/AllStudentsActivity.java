@@ -35,7 +35,7 @@ public class AllStudentsActivity extends BaseActivity {
     @Override
     public void makeRequest() {
         StudentsApi api = new StudentsApi(this, "GetAllStudents");
-        String url = getString(R.string.global_url) + "/api/students";
+        String url = baseUrl + "/api/students";
         Map<String, String> requestProperties = new HashMap<>();
         requestProperties.put("Authorization", "Bearer " + Persistent.getToken());
 
