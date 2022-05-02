@@ -14,8 +14,8 @@ public abstract class BaseActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        //baseUrl = getString(R.string.local_url);
-        baseUrl = getString(R.string.global_url);
+        baseUrl = getString(R.string.local_url);
+        //baseUrl = getString(R.string.global_url);
     }
 
     public abstract void makeRequest();

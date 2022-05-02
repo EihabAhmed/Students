@@ -87,6 +87,7 @@ namespace StudentsAuthorize.BLL
                         entity.FirstName = student.FirstName;
                         entity.Age = student.Age;
                         entity.Grade = student.Grade;
+                        entity.ImageUrl = student.ImageUrl;
 
                         entities.SaveChanges();
 
@@ -117,6 +118,24 @@ namespace StudentsAuthorize.BLL
                         entities.SaveChanges();
                         return Request.CreateResponse(HttpStatusCode.OK);
                     }
+                }
+            }
+            catch (Exception ex)
+            {
+                return Request.CreateErrorResponse(HttpStatusCode.BadRequest, ex);
+            }
+        }
+
+        public HttpResponseMessage DeleteAllStudents(HttpRequestMessage Request)
+        {
+            try
+            {
+                using (StudentsDBEntities entities = new StudentsDBEntities())
+                {
+                    entities.Students.RemoveRange(entities.Students);
+                    entities.SaveChanges();
+
+                    return Request.CreateResponse(HttpStatusCode.OK);
                 }
             }
             catch (Exception ex)

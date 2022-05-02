@@ -120,5 +120,14 @@ namespace StudentsAuthorize.Controllers
             StudentsBLL studentsBLL = new StudentsBLL();
             return studentsBLL.DeleteStudent(Request, id);
         }
+
+        // DELETE ALL
+        [HttpDelete]
+        [Route("api/students/DeleteAllStudents")]
+        public HttpResponseMessage DeleteAll()
+        {
+            StudentsBLL studentsBLL = new StudentsBLL();
+            return studentsBLL.DeleteAllStudents(Request);
+        }
     }
 }
