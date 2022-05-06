@@ -151,7 +151,7 @@ namespace StudentsAuthorize.BLL
             {
                 using (StudentsDBEntities entities = new StudentsDBEntities())
                 {
-                    foreach(int id in studentIds.ids)
+                    foreach(int id in studentIds.studentIds)
                     {
                         var entity = entities.Students.FirstOrDefault(s => s.ID == id);
                         if (entity == null)
@@ -160,7 +160,7 @@ namespace StudentsAuthorize.BLL
                         }
                     }
 
-                    foreach(int id in studentIds.ids)
+                    foreach(int id in studentIds.studentIds)
                     {
                         var entity = entities.Students.FirstOrDefault(s => s.ID == id);
                         entities.Students.Remove(entity);
