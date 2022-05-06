@@ -124,10 +124,19 @@ namespace StudentsAuthorize.Controllers
         // DELETE ALL
         [HttpDelete]
         [Route("api/students/DeleteAllStudents")]
-        public HttpResponseMessage DeleteAll()
+        public HttpResponseMessage DeleteAllStudents()
         {
             StudentsBLL studentsBLL = new StudentsBLL();
             return studentsBLL.DeleteAllStudents(Request);
+        }
+
+        // DELETE STUDENTS
+        [HttpDelete]
+        [Route("api/students/DeleteStudents")]
+        public HttpResponseMessage DeleteStudents([FromBody]StudentIds studentIds)
+        {
+            StudentsBLL studentsBLL = new StudentsBLL();
+            return studentsBLL.DeleteStudents(Request, studentIds);
         }
     }
 }

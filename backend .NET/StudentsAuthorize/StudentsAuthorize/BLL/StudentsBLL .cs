@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StudentsAuthorize.Models;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
@@ -135,6 +136,37 @@ namespace StudentsAuthorize.BLL
                     entities.Students.RemoveRange(entities.Students);
                     entities.SaveChanges();
 
+                    return Request.CreateResponse(HttpStatusCode.OK);
+                }
+            }
+            catch (Exception ex)
+            {
+                return Request.CreateErrorResponse(HttpStatusCode.BadRequest, ex);
+            }
+        }
+
+        public HttpResponseMessage DeleteStudents(HttpRequestMessage Request, StudentIds studentIds)
+        {
+            try
+            {
+                using (StudentsDBEntities entities = new StudentsDBEntities())
+                {
+                    foreach(int id in studentIds.ids)
+                    {
+                        var entity = entities.Students.FirstOrDefault(s => s.ID == id);
+                        if (entity == null)
+                        {
+                            return Request.CreateErrorResponse(HttpStatusCode.NotFound, "No student found with id " + id);
+                        }
+                    }
+
+                    foreach(int id in studentIds.ids)
+                    {
+                        var entity = entities.Students.FirstOrDefault(s => s.ID == id);
+                        entities.Students.Remove(entity);
+                    }
+
+                    entities.SaveChanges();
                     return Request.CreateResponse(HttpStatusCode.OK);
                 }
             }
